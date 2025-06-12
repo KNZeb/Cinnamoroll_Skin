@@ -1,16 +1,3 @@
-
-
-#dashboard a {
-  border-radius: 1.5em;
-  background: #75C2E6;
-  color: #ffdbe4;
-}
-
-a {
-  background: transparent;
-  color: #ffdbe4;
-}
-
 .actions a,
 .actions a:link,
 .actions a:visited,
@@ -316,7 +303,7 @@ dl.index dd {
   margin: 0 .25em .643em 2.5em;
   padding: .375em .15em .15em;
   overflow: visible;
-  background: #75C2E6;
+  background: #7f636c;
 }
 
 form {
@@ -391,7 +378,7 @@ form.filters {
 .splash .module h3:after {
   font-style: normal;
   color: #ee0767
-  content: "♡";
+    content: "♡";
 }
 
 #header .user a,
@@ -407,7 +394,7 @@ form.filters {
 #header .user a:after,
 #small_login .action:after {
   color: #ee0767
-  content: "♡";
+    content: "♡";
 }
 
 .dashboard .own {
@@ -463,7 +450,7 @@ textarea {
 }
 
 #header .heading a {
-  text-shadow: -2px 3px 0 #75C2E6;
+  text-shadow: -2px 3px 0 #7f636c;
   font-style: italic;
   font-size: 2em;
   line-height: 1em;
@@ -509,7 +496,7 @@ textarea {
 
 #header h1 a span:hover {
   background: transparent;
-  color: #7f636c;
+  color: #fefbba;
 }
 
 #header {
@@ -911,7 +898,7 @@ img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
 .index .tagset .icon {
   box-sizing: border-box;
   background: url("https://images.squidge.org/images/2025/02/09/zerafina_icon_tag_01.png"), 
-    linear-gradient(transparent, #ffffff50 45% 55%, transparent);
+      linear-gradient(transparent, #ffffff50 45% 55%, transparent);
   background-size: cover;
   background-color: #5998d6;
   border: 1.5px solid #00000025;
@@ -920,7 +907,7 @@ img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
 .index .mystery .icon {
   box-sizing: border-box;
   background: url("https://images.squidge.org/images/2025/02/09/zerafina_icon_anon_01.png"), 
-    linear-gradient(transparent, #ffffff50 45% 55%, transparent);
+      linear-gradient(transparent, #ffffff50 45% 55%, transparent);
   background-size: cover;
   background-color: #616c90;
   border: 1.5px solid #ddd;
@@ -930,7 +917,7 @@ img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
 .admin .primary .icon {
   box-sizing: border-box;
   background: url("https://images.squidge.org/images/2025/02/13/zerafina_icon_admin_01.png")  no-repeat, 
-    linear-gradient(#ffffff40, transparent);
+      linear-gradient(#ffffff40, transparent);
   background-size: cover;
   background-color: #5998d6;
   border: 1.5px solid #00000099;
