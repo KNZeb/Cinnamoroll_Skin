@@ -496,7 +496,7 @@ textarea {
 
 #header h1 a span:hover {
   background: transparent;
-  color: #fefbba;
+  color: #7f636c;
 }
 
 #header {
@@ -519,6 +519,12 @@ p.muted.notice {
   color: #FD8FAD;
   border: 2px dotted pink;
   border-radius: 1.5em;
+}
+
+#dashboard a {
+  color: #f6d8e5;
+  border-radius: 1.5em;
+  background: #75c2e6;
 }
 
 #dashboard a:hover {
