@@ -1,3 +1,5 @@
+
+
 .actions a,
 .actions a:link,
 .actions a:visited,
@@ -150,10 +152,7 @@ li.comment:nth-child(even) {
 }
 
 .comment fieldset {
-  margin: 0;
-  background: url(https://64.media.tumblr.com/5a98ef6924f401a3ca34e8626310f19b/5cb274cde578a94c-4b/s500x750/04b7c5b4b741e7cb28f0ec82b7f79681b6cbb641.png);
-  background-size: 8em;
-  background-color: #e1bcc7;
+  background: url(https://64.media.tumblr.com/95fa6de749b5d8597358e1f12d9cf6d2/e704e5d5be807113-25/s1280x1920/51ac098cfaa8950c5dfa19b683b7bd7797283b4b.jpg);
   background-blend-mode: darken;
   box-shadow: 1px 0 6px 3px #a18a89;
   border-radius: 1.5em;
